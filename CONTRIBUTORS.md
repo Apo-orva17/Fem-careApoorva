@@ -1,1 +1,3 @@
-## Start with adding your name! 😇
+Name: Asra Tabassum
+GitHub: @Tabassumasra05
+About: I an pursuing my Btech at IIIT Allahabad in IT Branch. I am a passionate learner of mathematics and its intersection with           competitive programming.Further hoping to live in the world of mathematics
